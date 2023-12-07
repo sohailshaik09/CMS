@@ -1,0 +1,36 @@
+Student Management System is basic C++ Program.
+
+I make this program without use FILE HANDLING Because I show you how to make a STUDENT MANAGEMENT SYSTEM
+firstly using classes and functions.
+
+There is a four Functions:
+	
+	1>  to Add new student
+        2> to Display all student
+        3> to Remove student
+        4> to Edit student
+        5> to Search student
+        0> to Exit
+First Step:
+ Enter Record:
+	Enter name: 
+        Enter roll no: 
+        Enter Branch: 
+
+Second Step:
+ Display Record:
+
+	They will show you all the information what you enter.
+
+Third Step:
+ Update Record:
+
+ 	If You want any updation in the record just press 3 they will show you all the information
+	just enter the line where you want to update the record. 
+
+Fourth Step:
+ Exit program.
+
+This is great program for the beginners.
+
+ 
